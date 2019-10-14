@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://julianabelengimenez.github.io/cv/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://julianabelengimenez.github.io/cv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://julianabelengimenez.github.io/cv/presentaci%C3%B3n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://julianabelengimenez.github.io/cv/presentaci%C3%B3n/</guid>
+      <description>Hola! Soy Aled James, nacido y criado en Comodoro Rivadavia, termine mis estudios secundarios en esta ciudad y me especialize en la parte de lenguas extranjeras, mas que nada en la rama del ingles. La cual considero una lengua que manejo a la perfección tanto escrita como al hablarla. Comencé en las ventas desde muy temprana edad, en Foto Pueyrredón. La cual es una casa de Fotografía y filmación que se especializa en eventos y ventas de fotos, cámaras profesionales y semi-profesionales.</description>
+    </item>
+    
+  </channel>
+</rss>
